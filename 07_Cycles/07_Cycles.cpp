@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
 
-    // А
     cout << "     a" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -17,7 +16,6 @@ int main() {
         cout << endl;
     }
 
-    // Б
     cout << "     b" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -31,7 +29,6 @@ int main() {
         cout << endl;
     }
 
-    // В
     cout << "     c" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -45,7 +42,6 @@ int main() {
         cout << endl;
     }
 
-    // Г
     cout << "     d" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -59,7 +55,6 @@ int main() {
         cout << endl;
     }
 
-    // Д
     cout << "     e" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -73,7 +68,6 @@ int main() {
         cout << endl;
     }
 
-    // Е
     cout << "     f" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -87,7 +81,6 @@ int main() {
         cout << endl;
     }
 
-    // Ж
     cout << "     g" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -101,7 +94,6 @@ int main() {
         cout << endl;
     }
 
-    // З
     cout << "     h" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -115,7 +107,6 @@ int main() {
         cout << endl;
     }
 
-    // И
     cout << "     i" << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
@@ -129,8 +120,7 @@ int main() {
         cout << endl;
     }
 
-    // К
-    cout << "     l" << endl;
+    cout << "     l " << endl;
     for (int i = 0; i < 6; i++) {
         for (int j = 0; j < 6; j++) {
             if (i + j >= 5) {
